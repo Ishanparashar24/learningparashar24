@@ -32,27 +32,27 @@ This detailed index provides a complete, nested, and clickable overview of all t
 
 * **Android Development**
     * **Kotlin Fundamentals**
-        * [Variables and Data Types](https://github.com/Ishanparashar24/learningparashar24)
-        * [Control Flow](https://github.com/Ishanparashar24/learningparashar24)
+        * [Variables and Data Types(Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
+        * [Control Flow(Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
     * **Jetpack Compose**
-        * [Composable Functions](https://github.com/Ishanparashar24/learningparashar24)
-        * [State Management](https://github.com/Ishanparashar24/learningparashar24)
-        * [Navigation in Compose]()
+        * [Composable Functions(Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
+        * [State Management(Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
+        * [Navigation in Compose(Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
     * **XML Layouts**
-        * [Basic Layouts (LinearLayout, RelativeLayout)](https://github.com/Ishanparashar24/learningparashar24)
-        * [Custom Views](https://github.com/Ishanparashar24/learningparashar24)
-    * [Android Architecture Components](https://github.com/Ishanparashar24/learningparashar24)
+        * [Basic Layouts (LinearLayout, RelativeLayout) (Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
+        * [Custom Views (Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
+    * [Android Architecture Components(Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
 
 * **Artificial Intelligence**
-    * [Foundations of AI](https://github.com/Ishanparashar24/learningparashar24)
+    * [Foundations of AI (Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
     * **Machine Learning (within AI)**
-        * [Supervised Learning](https://github.com/Ishanparashar24/learningparashar24)
-            * [Linear Regression](https://github.com/Ishanparashar24/learningparashar24)
-            * [Classification Algorithms](https://github.com/Ishanparashar24/learningparashar24)
-        * [Unsupervised Learning](https://github.com/Ishanparashar24/learningparashar24)
+        * [Supervised Learning (Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
+            * [Linear Regression (Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
+            * [Classification Algorithms (Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
+        * [Unsupervised Learning (Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
     * **Deep Learning**
-        * [Neural Networks Basics](https://github.com/Ishanparashar24/learningparashar24)
-        * [Convolutional Neural Networks (CNNs)](https://github.com/Ishanparashar24/learningparashar24)
+        * [Neural Networks Basics (Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
+        * [Convolutional Neural Networks (CNNs) (Comming Soon)](https://github.com/Ishanparashar24/learningparashar24)
 
 * **[Your Next Domain]**
     * [Main Topic 1](Your-Next-Domain-Folder/Main-Topic-1/README.md)
